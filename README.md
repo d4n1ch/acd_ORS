@@ -7,7 +7,7 @@ for Arma 3 @Exile mod
 
 ACD_ORS Version
 ---------------
-* 0.1
+* 0.2
 
 @Exile Version
 ---------------
@@ -21,10 +21,15 @@ INSTALLATION:
 ```java
 class CfgExileCustomCode 
 {
-	ExileClient_gui_selectSpawnLocation_show = "overwrites\exile_server\code\ExileClient_gui_selectSpawnLocation_show.sqf";
+	ExileClient_gui_selectSpawnLocation_show = "overwrites\exile_client\code\ExileClient_gui_selectSpawnLocation_show.sqf";
 };
 ```
 * 3) profit
+
+CHANGELOG
+---------
+# 0.2
+* Changes in directory structure
 
 Tech
 ----

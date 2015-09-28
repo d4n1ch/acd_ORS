@@ -1565,7 +1565,7 @@ class CfgExileArsenal
 };
 class CfgExileCustomCode 
 {
-	ExileClient_gui_selectSpawnLocation_show = "overwrites\exile_server\code\ExileClient_gui_selectSpawnLocation_show.sqf";
+	ExileClient_gui_selectSpawnLocation_show = "overwrites\exile_client\code\ExileClient_gui_selectSpawnLocation_show.sqf";
 };
 class CfgExileMusic
 {
